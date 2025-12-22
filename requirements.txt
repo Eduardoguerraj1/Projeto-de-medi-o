@@ -1,7 +1,7 @@
-streamlit
-ultralytics
-opencv-python
-pandas
-numpy
-Pillow
-watchdog
+streamlit==1.32.0
+ultralytics==8.3.239
+pandas==2.3.3
+opencv-python-headless==4.11.0.86
+numpy==1.26.4
+pillow==10.4.0
+watchdog==6.0.0
